@@ -1,6 +1,5 @@
 
 package org.learn.Question;
-import org.learn.PrepareTree.Node;
 
 public class NodesInBTree {
 	public static int nodesInBTree(Node root) {
